@@ -6,6 +6,8 @@
 
 <a href="https://twitter.com/beingkunwor" target="blank"><img src="https://img.shields.io/twitter/follow/beingkunwor?logo=twitter&style=for-the-badge" alt="beingkunwor" /></a>
 
+<img src="./coder.gif" height="250px">
+
 ---
 
 **🛠️ Languages and Tools**
@@ -18,6 +20,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
 <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
